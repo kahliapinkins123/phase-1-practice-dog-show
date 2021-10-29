@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Baby",
       "breed": "Deerhound",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 2,
       "name": "Teddy",
-      "breed": "Rhodesian Ridgeback",
+      "breed": "Ridgeback Willy",
       "sex": "female"
     },
     {
       "id": 3,
       "name": "Snickers",
-      "breed": "Daschund",
+      "breed": "Dachshund",
       "sex": "female"
     },
     {
       "id": 4,
       "name": "Harvey",
       "breed": "Irish Spaniel",
-      "sex": "male"
+      "sex": "female"
     },
     {
       "id": 5,
@@ -45,13 +45,13 @@
     {
       "id": 8,
       "name": "Chloe",
-      "breed": "Dandy Terrier",
+      "breed": "Dandie Terrier",
       "sex": "male"
     },
     {
       "id": 9,
       "name": "Shelby",
-      "breed": "Kuvasc",
+      "breed": "Kuvasz",
       "sex": "male"
     },
     {
@@ -92,14 +92,14 @@
     },
     {
       "id": 16,
-      "name": "Chance",
-      "breed": "Flatcoated Retriever",
+      "name": "Buddy",
+      "breed": "Walker Hound",
       "sex": "female"
     },
     {
       "id": 17,
-      "name": "Buddy",
-      "breed": "Walker Hound",
+      "name": "Chance",
+      "breed": "Flatcoated Retriever",
       "sex": "female"
     },
     {
